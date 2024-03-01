@@ -1,0 +1,32 @@
+.search-input {
+  padding: 10px;
+  height: 40px;
+}
+
+.rating1 {
+  font-size: 20px;
+}
+
+.star-main-container {
+  border-style: solid;
+}
+
+.star-container {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+}
+
+.star-img {
+  width: 120px;
+  margin-bottom: 10px;
+}
+
+.filter-button {
+  background-color: transparent;
+  padding: 10px;
+  color: #0967d2;
+  border: 2px solid #0967d2;
+  margin-top: 10px;
+  border-radius: 2px;
+}
